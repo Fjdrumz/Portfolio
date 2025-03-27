@@ -1,5 +1,4 @@
 import React from "react";
-import grid1 from "/src/assets/images/grid1.jpeg";
 
 
 import grid2 from "../assets/images/grid2.jpeg";
@@ -31,7 +30,6 @@ function Portfolio() {
             </div>
             <div className="smallgrid">
               <img src={grid4} alt="Project 4" />
-              <img src={grid1} alt="Project 5" />
             </div>
           </div>
         </div>
