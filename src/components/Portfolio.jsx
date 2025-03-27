@@ -1,5 +1,7 @@
 import React from "react";
-import grid1 from "../assets/images/grid1.jpeg";
+import grid1 from "/src/assets/images/grid1.jpeg";
+
+
 import grid2 from "../assets/images/grid2.jpeg";
 import grid3 from "../assets/images/grid3.jpeg";
 import grid4 from "../assets/images/grid4.jpeg";
